@@ -1,7 +1,7 @@
-@import "responsive.css";
 @import "utils.css";
 @import "blogpost.css";
 @import "contact.css";
+@import "responsive.css";
 
 *{
     margin: 0;
